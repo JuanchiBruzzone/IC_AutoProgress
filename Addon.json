@@ -3,7 +3,7 @@
   "Version": "v1",
   "Includes": "IC_AutoProgress_Component.ahk",
   "Author": "HenkyPenky",
-  "Url": "",
+  "Url": "https://github.com/JuanchiBruzzone/IC_AutoProgress",
   "Info": "Spams AutoProgress so you don't get stuck.",
   "Dependencies": []
 }
